@@ -1,0 +1,14 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "write.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Pritom Soren",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.1.0"
+  }
+}
